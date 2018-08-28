@@ -1,0 +1,11 @@
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\bin\Debug\netcoreapp2.0\CoreConsoleApp.deps.json
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\bin\Debug\netcoreapp2.0\CoreConsoleApp.runtimeconfig.json
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\bin\Debug\netcoreapp2.0\CoreConsoleApp.runtimeconfig.dev.json
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\bin\Debug\netcoreapp2.0\CoreConsoleApp.dll
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\bin\Debug\netcoreapp2.0\CoreConsoleApp.pdb
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.AssemblyInfoInputs.cache
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.AssemblyInfo.cs
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.dll
+C:\Users\jtripathi\Source\Repos\CoreConsoleApp\CoreConsoleApp\obj\Debug\netcoreapp2.0\CoreConsoleApp.pdb

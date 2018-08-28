@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  coreconsoleapp:
+    image: coreconsoleapp
+    build:
+      context: .
+      dockerfile: CoreConsoleApp\Dockerfile
